@@ -1,5 +1,4 @@
-alert("Credit's Sadqua nawab");
-alert("if using on mobile please first enter text then tap on listen then u can slct voice.");
+
 let voices = [];
 let voiceSelect = document.querySelector("select");
 let speech = new SpeechSynthesisUtterance(); // Create a speech synthesis utterance object
